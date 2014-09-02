@@ -34,6 +34,9 @@ PRODUCT_AAPT_PREF_CONFIG := xxhdpi
 # Dot View Case
 PRODUCT_PACKAGES += Dotcase
 
+# Multirom manager
+PRODUCT_PACKAGES += MultiROMMgr
+
 # Ramdisk
 PRODUCT_PACKAGES += \
     fstab.qcom \
